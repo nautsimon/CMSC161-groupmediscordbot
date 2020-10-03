@@ -1,7 +1,7 @@
 import json
 from datetime import datetime
 import urllib3
-import groupmebotsecrets
+import groupmebotsecrets #has all the secrets
 
 
 
